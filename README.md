@@ -4,6 +4,14 @@
 This project implements a Packet Logger using the POX Software Defined Networking (SDN) controller.  
 It captures packets traversing the network, extracts header information, identifies protocol types, and logs the details in real time.
 
+## 🌐 Interactive Demo
+
+**[Live Demo →](https://packetflow-k2yekyzq.manus.space)**
+
+Explore an interactive browser-based visualization of the Packet Logger's POX/OpenFlow packet-processing pipeline.
+
+> The demo is a browser simulation based on the verified `pack.py` implementation. It is not connected to a live POX, Mininet, or Open vSwitch process.
+
 ---
 
 ## 🎯 Objectives
